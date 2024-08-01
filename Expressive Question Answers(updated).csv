@@ -1,0 +1,65 @@
+Image_Label,Question,Answer,ID,Expression
+cooking_woman.png,What is she doing?,She is cooking dinner.; She is cooking lunch.; She is cooking meal.; The woman is preparing a meal.; She is making dinner.; She is cooking a dish.; She is stirring a pot.,s-0001,happy
+cooking_woman.png,Where is she?,In the kitchen.; She is in the kitchen.; She is cooking at home.; The woman is in the kitchen.; She is preparing food in the kitchen.,s-0001,happy
+hiking_people.png,Who are they?,A group of people.; They are hikers.; A group of hikers.; The hikers.,s-0002,happy
+hiking_people.png,What are the people doing?,They are hiking.; They are walking on a trail.; They are looking at the mountains.; People are hiking.; People are walking on the trail.; They are looking at the view.; They are hiking through a trail.,s-0002,happy
+hiking_people.png,Where are they?,At the mountains.; At the hike.; At the trail.; They are at a hike.; They are at the mountains.; They are on a mountain trail.,s-0002,happy
+bicycling_boy.png,Who is this?,A boy.; A child.; He is a boy.; A young boy.; A kid.; He is a kid.; He is a child. ,s-0003,happy
+bicycling_boy.png,What is the boy doing?,Riding bicycle.; Boy is riding bicycle.; He is riding a bike.; The boy is on a bicycle.; He is cycling.; The boy is riding a bike.,s-0003,happy
+bicycling_boy.png,Where is the boy riding his bicycle?,On the street.; He is cycling in the neighborhood.; The boy is riding his bicycle on the road.; He is cycling on a street.; The boy is riding his bicycle outside.,s-0003,happy
+teaching_teacher.png,Who is writing on the board?,The teacher.; She is.; A teacher.; The instructor.; Teacher is writing.; Instructor is writing.; The teacher is writing on the board.; Instructor is writing on the board.,s-0004,happy
+teaching_teacher.png,What is she doing?,She is teaching.; She is writing.; Teaching chemistry.; Teaching formulas.; She is teaching formulas.; She is teaching chemistry.; She is writing formulas.,s-0004,happy
+teaching_teacher.png,Where is she writing?,On the chalkboard.; She is writing on the blackboard.; The teacher is writing on the board.,s-0004,happy
+walking_couple.png,What are they doing?,They are walking.; They are taking a walk.; Couple is taking a walk.; They are walking together.; The couple is enjoying a walk.; Couple is walking.,s-0005,happy
+walking_couple.png,Where are they?,At the seaside.; At the seashore.; At the shore.; They are at the seashore.; They areat the seaside.; They are at the shore.,s-0005,happy
+working_farmer.png,Who is he?,The farmer.; He is a farmer.; A farmer.; A man.,s-0006,Natural 
+working_farmer.png,What is he doing?,He is working.; Tending crops.; He is tending crops.; Farmer is working.,s-0006,Natural 
+working_farmer.png,Where is he working?,In the field.; In the farm.; He is working in the farm.; He is working in the field.; The farmer is working in his farm.,s-0006,Natural 
+painting_girl.png,Who is she?,She is a girl.; She is a painter.; She is a young girl.; A child.; A painter.; A young girl.,s-0007,Natural 
+painting_girl.png,What is she doing?,Painting.; She is painting.; The girl painting.; She is painting on canvas.,s-0007,Natural 
+painting_girl.png,Where is she painting?,She is painting outside.; She is painting in the garden.; She is painting outside her house.,s-0007,Natural 
+painting_girl.png,What is she using to paint?,Paintbrush paints canvas.; She is using a palette.; The girl using a canvas.; She is using art supplies.; She is using paints.; She is using paints and brush.,s-0007,Natural 
+playing_boys.png,Who are they?,The boys.; A group of kids.; Several friends.; The boys and their classmates.; They are boys.,s-0008,Natural 
+playing_boys.png,What are they doing?,They are playing football.; Playing football.; The boys are playing football.,s-0008,Natural 
+playing_boys.png,Where are the boys playing?,In the park.; In the playground.; The boys are playing in a schoolyard.; They are at the playground.; They are playing on a sports field.; Football ground.; Boys are playing on the football ground.,s-0008,Natural 
+reading_man.png,What is he doing?,Reading a book.; Reading a novel.; He is holding a novel.; He has a hardcover book.; The man is reading a book.,s-0009,Natural 
+reading_man.png,Where is he sitting?,The man is sitting in a garden.; He is sitting on the bench.; The man is sitting on a bench in the park.,s-0009,Natural 
+dinner_family.png,Who are they?,The family.; They are family.;They are family members.; Parents and children.; The family members.,c-0001,Natural 
+dinner_family.png,What are they doing?,They are having dinner.; The family is eating a meal.; They are enjoying their dinner.; The family is having a meal together.; They are eating dinner.,c-0001,Natural 
+dinner_family.png,Where are they?,At the dining table.; They are in the dining room.; The family is having dinner at home.; They are gathered in the dining area.,c-0001,Natural 
+playing_dogs.png,What are the dogs doing?,Playing with each other.; The dogs are running around.; They are chasing each other.; The dogs are having fun.,c-0002,Natural 
+playing_dogs.png,Where are the dogs playing?,In the yard.; They are playing on house back side.; The dogs are playing in the garden.; They are playing outside house.; The dogs are in an open field.,c-0002,Sad
+playing_dogs.png,Who is playing?,The dogs.; The pets.; The animals are playing.,c-0002,Sad
+playing_dogs.png,How are the dogs playing?,They are running and jumping.; They are playing by moving their tails.; The dogs are chasing each other.,c-0002,Sad
+gardening_woman.png,What is the woman doing?,Planting flowers.; She is planting plants.; The woman is taking care of the plants.;She is planting a plant with hand.,c-0003,Sad
+gardening_woman.png,Where is the woman gardening?,In the garden.; She is gardening in her backyard.; She is working in the flower beds.,c-0003,Sad
+gardening_woman.png,Who is gardening?,The woman.; A gardener.; The lady.; A young lady. ,c-0003,Sad
+gardening_woman.png,How is the woman gardening?,She is planting flower seeds.; The woman is using gardening tools.; She has various tools for gardening.,c-0003,Sad
+driving_man.png,Where is the man driving to?,To work.; He is driving to home.; The man is driving to a store.; A man is driving to hospital.; A man is driving to meet his friend.,c-0004,Sad
+driving_man.png,What is the man driving?,A car.; He is driving a vehicle.; He is driving a jeep.,c-0004,Sad
+driving_man.png,Who is driving?,The man.; A smart man.; A young man.,c-0004,Sad
+driving_man.png,How is the man driving?,He is driving carefully.; The man is focused on the road.; He is driving smoothly.; He is driving with glasses.,c-0004,Sad
+swimming_boys.png,What are the boys doing in the pool?,Swimming.; They are having fun in the water.; They are playing in the pool.; They are splashing water around.,c-0005,Sad
+swimming_boys.png,Where are the boys swimming?,In the pool.; They are swimming in a swimming pool.; The boys are in a water park.,c-0005,Sad
+swimming_boys.png,Who are swimming in the pool?,The boys.; A group of boys.; The children.; The kids are swimming in the pool.,c-0005,Sad
+swimming_boys.png,How are the boys swimming?,They are swimming energetically.; The boys are playing and splashing water.; They have smile on faces.; They are swimming using catch and throw game.,c-0005,Sad
+shopping_woman.png,What is the woman shopping for?,Groceries.; She is buying vegetables.; She is shopping for food items.; Woman is shopping for home items.,c-0006,Sad
+shopping_woman.png,Where is the woman shopping?,At the supermarket.; She is shopping in a mall.; She is shopping in a market.,c-0006,Sad
+shopping_woman.png,Who is shopping?,The woman.; The lady.; The young woman.,c-0006,Angry
+shopping_woman.png,How is the woman shopping?,She is using a shopping cart.; She has already picked some items; She is using phone while shopping.; She is checking items list while shopping.,c-0006,Angry
+fishing_man.png,Where is the man fishing?,In a lake.; He is fishing in a river.; He is fishing by the pond.; He is fishing at a fishing spot.,c-0007,Angry
+fishing_man.png,What is the man using to fish?,A fishing rod.; He is using a reel.; The man has a fishing pole.; He has a fishing box.,c-0007,Angry
+fishing_man.png,Who is fishing?,The man.; A fisherman.; A young man is fishing.,c-0007,Angry
+fishing_man.png,How is the man fishing?,He is fishing using a fishing rode.; The man is reeling in a fish.; He is waiting patiently.; He is focused on the water.,c-0007,Angry
+riding_horses.png,What are the people doing with the horses?,Riding them.; They are horseback riding.; The people are riding the horses.; They are enjoying a ride.; The people are on a horseback trail.,c-0008,Angry
+riding_horses.png,Where are the people riding the horses?,They are riding on a trail.; The people are in the mountains.; They are riding in a field.; They are riding side by some forest.,c-0008,Angry
+riding_horses.png,Who is riding the horses?,The people.; A group of riders.; The riders.; A man and a woman.,c-0008,Angry
+riding_horses.png,How are the people riding the horses?,They are riding at a steady pace.; The people are enjoying the ride.; They are riding with helmets on.,c-0008,happy
+singing_girl.png,What is the girl singing?,A song.; The girl is performing a song.; The girl is singing in some event.; The girl is singing on a stage.,c-0009,happy
+singing_girl.png,Where is the girl singing?,On a stage.; She is singing in a concert.; The girl is performing at an event.,c-0009,happy
+singing_girl.png,Who is singing?,The girl.; A young singer.; The performer.; A lady.,c-0009,happy
+singing_girl.png,How is the girl singing?,She is singing happily.; The girl is singing with smile.; The girl is singing confidently.; She is performing beautifully.,c-0009,happy
+building_worker.png,Who is he?,The worker.; A construction worker.; The builder.; The mason.,c-0010,happy
+building_worker.png,What is he doing?,A house.; He is constructing a building.; The worker is building a wall.; He is building an appartment.,c-0010,happy
+building_worker.png,Where is he?,On a construction site.; The worker is at a building site.; He is constructing in a residential area.,c-0010,Natural 
+building_worker.png,How is the worker building?,He is using tools.; The worker is following blueprints.; He is assembling the framework.; He is using cement over bricks.; He is assembling bricks.,c-0010,Natural 
